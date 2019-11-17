@@ -10,9 +10,6 @@ Quassel IRC is a modern, cross-platform, distributed IRC client, meaning that on
 - PostgreSQL Support
 - Build from Source [[Quassel](https://github.com/quassel/quassel)]
 
-# Attention
-This are my first steps with own docker container. As inspiration i look at the dockerfile from [Linuxserver's Quassel-Core](https://github.com/linuxserver/docker-quassel-core) but build it with Ubuntu and add the missing **Encryption support**!
-
 # Usage
 
 ```
